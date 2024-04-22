@@ -4,7 +4,7 @@ public class hellowipro
 {
     public static void main( String[] args )
     {
-       String str = hello wipro!;
+       String str = "hello wipro!";
        System.out.println(str);
     }
 }
