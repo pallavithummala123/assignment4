@@ -1,6 +1,6 @@
 package com.wipro;
  
-public class hello world
+public class helloworld
 {
     public static void main( String[] args )
     {
