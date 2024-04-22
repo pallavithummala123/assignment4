@@ -1,10 +1,10 @@
 package com.wipro;
  
-public class test2
+public class hellowipro
 {
     public static void main( String[] args )
     {
-       String str = Hello Wipro!;
+       String str = hello wipro!;
        System.out.println(str);
     }
 }
