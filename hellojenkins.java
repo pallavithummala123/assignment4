@@ -1,6 +1,6 @@
 package com.wipro;
  
-public class App 
+public class hellojenkins 
 {
     public static void main( String[] args )
     {
